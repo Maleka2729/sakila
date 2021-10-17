@@ -26,4 +26,4 @@ Votre url : http://localhost/sakila/
 ## Technologie 
   * Framework Bootstrap : framework avec lequel je travaille le plus pour la mise en page d'un site.
   * MySQL : serveur de base de données relationnel que j'utilise à chaque fois dans les projets.
-  * PHP : il était demandé d'utiliser un langage en objet, de plus c'est le seul langage obket que je maîtrise.
+  * PHP : il était demandé d'utiliser un langage en objet, de plus c'est le seul langage objet que je maîtrise.
