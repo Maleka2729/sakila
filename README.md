@@ -19,7 +19,10 @@ Ces fonctionnalitées seront utilisés par le personnel de l'entreprise et le de
   * private $db_password = " ";
   * private $db_name= "sakila";
 
-lancer le projet : php -S localhost:8000
+* Etape 5 : Lancer le projet :
+<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+    php -S localhost:8000 
+<!--endsec-->
 
 Votre url : http://localhost:8000/
 
