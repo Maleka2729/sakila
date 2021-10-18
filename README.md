@@ -9,19 +9,19 @@ Ces fonctionnalitées seront utilisés par le personnel de l'entreprise et le de
 
 ## Installation du Projet 
 
-* Etape 1 : importer ce dossier("sakila") dans C:\xampp\htdoc
+* Etape 1 : créer la database "sakila" dans MySQL.
 
-* Etape 2 : créer la database "sakila" dans MySQL.
+* Etape 2 : dans le dossier "sakila-db", importer le fichier "sakila-schema.sql" dans MySQL, et exécuter le script.
 
-* Etape 3 : dans le dossier "sakila-db", importer le fichier "sakila-schema.sql" dans MySQL, et exécuter le script.
+* Etape 3 : dans le dossier "sakila-db", importer le fichier "sakila-data.sql" dans MySQL, et exécuter le script.
 
-* Etape 4 : dans le dossier "sakila-db", importer le fichier "sakila-data.sql" dans MySQL, et exécuter le script.
-
-* Etape 5 : dans le dossier "class", sélectionner le fichier "dbconfig", et modifier le mot de passe en fonction du votre : 
+* Etape 4 : dans le dossier "class", sélectionner le fichier "dbconfig", et modifier le mot de passe en fonction du votre : 
   * private $db_password = " ";
   * private $db_name= "sakila";
 
-Votre url : http://localhost/sakila/
+lancer le projet : php -S localhost:8000
+
+Votre url : http://localhost:8000/
 
 ## Technologie 
   * Framework Bootstrap : framework avec lequel je travaille le plus pour la mise en page d'un site.
